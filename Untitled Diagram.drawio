@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T12:14:27.189Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="YWP5W3ZbPARqeRKbw85P" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T12:15:21.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="itUq2mf07OgnAN3Wmfcb" version="14.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="711" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -19,6 +19,9 @@
         </mxCell>
         <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-8" value="사이트 접속" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;sketch=0;fillColor=#F2CC8F;fontColor=#393C56;strokeColor=#E07A5F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="335" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-118" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZX0ICCoZ-Nn2GATWxBDO-9" target="ZX0ICCoZ-Nn2GATWxBDO-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-9" value="오늘 먹고싶은&lt;br&gt;음식을 입력" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;sketch=0;fillColor=#F2CC8F;fontColor=#393C56;strokeColor=#E07A5F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="200.63" width="110" height="50" as="geometry" />
