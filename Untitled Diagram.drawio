@@ -1,20 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T11:54:20.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="SW5zy96yMG86Iv0MtcKS" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T12:14:27.189Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="YWP5W3ZbPARqeRKbw85P" version="14.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="711" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-3" value="&lt;span&gt;음식을&lt;/span&gt;&lt;br&gt;&lt;span&gt;제시합니다.&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="472.5" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-94" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;labelBackgroundColor=#F4F1DE;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ZX0ICCoZ-Nn2GATWxBDO-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="584.4411272727273" y="225.69999999999982" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-7" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;labelBackgroundColor=#F4F1DE;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZX0ICCoZ-Nn2GATWxBDO-5" target="ZX0ICCoZ-Nn2GATWxBDO-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-85" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZX0ICCoZ-Nn2GATWxBDO-5" target="ZX0ICCoZ-Nn2GATWxBDO-83">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-5" value="&lt;span&gt;오늘 먹으면 &lt;br&gt;기분좋을 &lt;br&gt;음식을 추천(예측)&lt;br&gt;합니다.&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;sketch=0;fillColor=#F2CC8F;fontColor=#393C56;strokeColor=#E07A5F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="465" y="191.25" width="135" height="68.75" as="geometry" />
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-97" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;labelBackgroundColor=#F4F1DE;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ZX0ICCoZ-Nn2GATWxBDO-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="532.5" y="260" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-11" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;labelBackgroundColor=#F4F1DE;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZX0ICCoZ-Nn2GATWxBDO-8" target="ZX0ICCoZ-Nn2GATWxBDO-10">
           <mxGeometry relative="1" as="geometry" />
@@ -22,55 +20,76 @@
         <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-8" value="사이트 접속" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;sketch=0;fillColor=#F2CC8F;fontColor=#393C56;strokeColor=#E07A5F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="335" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-20" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;labelBackgroundColor=#F4F1DE;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZX0ICCoZ-Nn2GATWxBDO-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-9" value="오늘 먹고싶은&lt;br&gt;음식을 입력" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;sketch=0;fillColor=#F2CC8F;fontColor=#393C56;strokeColor=#E07A5F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="175" y="200.63" width="110" height="50" as="geometry" />
+          <mxGeometry x="190" y="200.63" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-14" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;labelBackgroundColor=#F4F1DE;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZX0ICCoZ-Nn2GATWxBDO-10" target="ZX0ICCoZ-Nn2GATWxBDO-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-16" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;labelBackgroundColor=#F4F1DE;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZX0ICCoZ-Nn2GATWxBDO-10" target="ZX0ICCoZ-Nn2GATWxBDO-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-16" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;labelBackgroundColor=#F4F1DE;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZX0ICCoZ-Nn2GATWxBDO-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="532.5" y="191.25" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-10" value="1.과 2. 중 선택하세요" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;sketch=0;fillColor=#F2CC8F;fontColor=#393C56;strokeColor=#E07A5F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="315" y="110" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-80" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZX0ICCoZ-Nn2GATWxBDO-21" target="ZX0ICCoZ-Nn2GATWxBDO-9">
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-25" value="&lt;h1&gt;오늘 뭐 먹지?&lt;/h1&gt;&lt;p&gt;사용자가 매일 선택한 먹고싶은 음식 데이터를 기반으로 오늘의 음식을 추천하는 서비스입니다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;* 입력하지 않으면 해당 일에는 default로 지정된 음식을 자동 입력합니다.(가장 좋아하는 음식을 default로 지정)&lt;/p&gt;&lt;p&gt;* 입력하지 않고 추천 서비스를 이용하면 오늘의 추천메뉴를 자동 입력합니다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;* 당일에 먹고싶은 입력을 재입력하면 이전 기록을 덮어씁니다.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="190" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-112" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZX0ICCoZ-Nn2GATWxBDO-28" target="ZX0ICCoZ-Nn2GATWxBDO-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;sketch=0;fillColor=#F2CC8F;fontColor=#393C56;rotation=90;strokeColor=#E07A5F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="205" y="330" width="50" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-25" value="&lt;h1&gt;오늘 뭐 먹지?&lt;/h1&gt;&lt;p&gt;사용자가 매일 선택한 먹고싶은 음식 데이터를 기반으로 오늘의 음식을 추천하는 서비스입니다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;* 입력하지 않으면 해당 일에는 default로 지정된 음식을 자동 입력합니다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" width="190" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-79" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZX0ICCoZ-Nn2GATWxBDO-26" target="ZX0ICCoZ-Nn2GATWxBDO-78">
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-117" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZX0ICCoZ-Nn2GATWxBDO-28" target="ZX0ICCoZ-Nn2GATWxBDO-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-26" value="늘 먹던 메뉴" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="460" width="80" height="80" as="geometry" />
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-28" value="음식 리스트를&lt;br&gt;제시합니다.&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="122.5" y="340" width="245" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-82" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZX0ICCoZ-Nn2GATWxBDO-27" target="ZX0ICCoZ-Nn2GATWxBDO-81">
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-115" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZX0ICCoZ-Nn2GATWxBDO-78" target="ZX0ICCoZ-Nn2GATWxBDO-114">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-27" value="특별한 메뉴" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="460" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-28" value="음식 리스트를&lt;br&gt;제시합니다.&amp;nbsp;&lt;br&gt;1. 늘 먹던걸로 2. 특별한" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="107.5" y="340" width="245" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-78" value="한식(김치찌개, 순대국밥)&lt;br&gt;중식(짜장면, 짬뽕)&lt;br&gt;일식(초밥, 튀김)&lt;br&gt;경양식(돈까스)&lt;br&gt;양식(파스타)&lt;br&gt;치킨, 피자, 햄버거, 족발" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;sketch=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="584.5" width="160" height="140" as="geometry" />
+          <mxGeometry x="50" y="580" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-81" value="인도요리, 베트남요리, 퓨전요리, 양꼬치, 태국요리, 곱창, 곱도리탕, 낙곱새, 뷔페, 스테이크, 칵테일, 막걸리" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;sketch=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="584.5" width="160" height="140" as="geometry" />
+          <mxGeometry x="671.25" y="330" width="152.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-83" value="메이저 메뉴 중&lt;br&gt;or 특별한 메뉴 중" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="195.63" width="120" height="60" as="geometry" />
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-101" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZX0ICCoZ-Nn2GATWxBDO-93" target="ZX0ICCoZ-Nn2GATWxBDO-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-93" value="특별한 메뉴&lt;br&gt;리스트 제시" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fontColor=#393C56;strokeColor=#E07A5F;strokeWidth=2;fillColor=#F2CC8F;arcSize=12;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="687.5" y="195.625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-95" value="특별한" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="200.63" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-96" value="늘 먹던 메뉴 중&amp;nbsp;&lt;br&gt;오늘 먹을 메뉴&lt;br&gt;표시" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fontColor=#393C56;strokeColor=#E07A5F;strokeWidth=2;fillColor=#F2CC8F;arcSize=12;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="472.5" y="344.375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-98" value="늘먹던" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-100" value="&lt;span&gt;오늘 먹으면&lt;/span&gt;&lt;br&gt;&lt;span&gt;기분좋을&lt;/span&gt;&lt;br&gt;&lt;span&gt;음식을 추천(예측)&lt;/span&gt;&lt;br&gt;&lt;span&gt;합니다.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=0;fillColor=#F2CC8F;fontColor=#393C56;strokeColor=#E07A5F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="478.75" y="190.63" width="107.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-107" value="&lt;span&gt;1. 늘 먹던걸로&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="420" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-109" value="&lt;span&gt;&amp;nbsp;2. 특별한&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275" y="420" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-113" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZX0ICCoZ-Nn2GATWxBDO-111" target="ZX0ICCoZ-Nn2GATWxBDO-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-111" value="늘 먹던 메뉴 리스트 출력" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-114" value="먹고싶은 메뉴의 이미지를 클릭하면 해당 선택을 오늘 날짜에 저장." style="whiteSpace=wrap;html=1;rounded=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="55" y="790" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX0ICCoZ-Nn2GATWxBDO-116" value="특별한 메뉴를 오늘 날짜에 저장" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
